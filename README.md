@@ -50,4 +50,4 @@ Los resultados que requieren revisión deben ser confirmados por una persona ant
 
 ## Despliegue
 
-URL pública: pendiente de despliegue.
+URL pública: https://glorious-zebra-p6jx566w5r35wj-3000.app.github.dev/
