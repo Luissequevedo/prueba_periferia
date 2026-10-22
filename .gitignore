@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+out/
+.DS_Store
+
+# Material original del reto y archivos generados
+retos-ia-periferia-it-group.zip
+out/
+node_modules/
+.env
+.env.*
+!.env.example
